@@ -53,7 +53,6 @@ export RCLONE_CONFIG_R2_PROVIDER="Cloudflare"
 export RCLONE_CONFIG_R2_ACCESS_KEY_ID="${R2_ACCESS_KEY}"
 export RCLONE_CONFIG_R2_SECRET_ACCESS_KEY="${R2_SECRET_KEY}"
 export RCLONE_CONFIG_R2_ENDPOINT="${R2_ENDPOINT}"
-export RCLONE_CONFIG_R2_ACL="private"
 
 # 4. Upload para Cloudflare R2
 log "3/5 - Iniciando upload para Cloudflare R2..."
